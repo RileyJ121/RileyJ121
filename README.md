@@ -1,5 +1,5 @@
 ## <sub>Hello,</sub><br>I'm Riley Johnson
-👋 	I'm a second-year computer science student at the University of Texas at Dallas. \
+👋 	I'm a third-year computer science student at the University of Texas at Dallas. \
 📫 	Find me on [LinkedIn](https://www.linkedin.com/in/rileycjson/) or directly by emailing riley.c.json@gmail.com
 
 <!--
